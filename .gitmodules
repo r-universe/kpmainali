@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CooccurrenceAffinity"]
+	path = CooccurrenceAffinity
+	url = https://github.com/kpmainali/cooccurrenceaffinity
+	shallow = true
+	registered = true
